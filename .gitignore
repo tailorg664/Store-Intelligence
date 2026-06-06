@@ -1,0 +1,15 @@
+# Environment Folder 
+venv/
+.venv/
+
+# Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Generated outputs
+runs/
+output/
+results/
+generated_videos/
